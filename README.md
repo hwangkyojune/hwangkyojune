@@ -4,6 +4,7 @@
   
  <br/>
   <img src="https://img.shields.io/badge/Python-green?style=flat&logo=Python&logoColor=#3776AB"/>
+  <img src="https://img.shields.io/badge/Java-green?style=flat&logo=Java&logoColor=#3776AB"/>
 
  
    <br/>
