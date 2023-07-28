@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&text=Hot_Potatoes)
+![header](https://capsule-render.vercel.app/api?type=rounded&text=Hot_Potatoes🥔)
   
 <div align=center><h1>📚 STACKS</h1></div>
 
