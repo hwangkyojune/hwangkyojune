@@ -2,8 +2,6 @@
 
 ####  :clipboard: Once I've Used 
   
-  <img src="https://img.shields.io/badge/Python-green?style=flat&logo=Python&logoColor=#3776AB"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
