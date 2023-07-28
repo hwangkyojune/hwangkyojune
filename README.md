@@ -1,6 +1,6 @@
 <div align=center>   
   
-  ![header](https://capsule-render.vercel.app/api?type=rounded&text=Hot_Potatoes&color=e8bf9e&fontColor)
+  ![header](https://capsule-render.vercel.app/api?type=rounded&text=Hot_Potatoes&color=e8bf9e&fontColor=f48e3b)
 </div>
 
   
