@@ -2,12 +2,10 @@
 
 ####  :clipboard: Once I've Used 
   
- <br/>
   <img src="https://img.shields.io/badge/Python-green?style=flat&logo=Python&logoColor=#3776AB"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 
  
-   <br/>
 
 <!--
 **hwangkyojune/hwangkyojune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
