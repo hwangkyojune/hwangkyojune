@@ -1,6 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=Hot_Potatoes)
-
-####  :clipboard: Once I've Used 
   
 <div align=center><h1>📚 STACKS</h1></div>
 
