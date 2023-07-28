@@ -3,7 +3,7 @@
 ####  :clipboard: Once I've Used 
   
  <br/>
-  <img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Python&logoColor=#3776AB"/>
+  <img src="https://img.shields.io/badge/Python-green?style=flat&logo=Python&logoColor=#3776AB"/>
 
  
    <br/>
